@@ -1,0 +1,1 @@
+This project shows all possible words that can be made in the GamePigeon game Word Hunt. To use this, Run the program, and type in all 16 letters from your Word Hunt game. Every possible word that can be made will show up, organized from greatest length to shortest.
